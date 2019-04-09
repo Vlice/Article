@@ -1,0 +1,30 @@
+Neo4j
+Tornado
+Spark
+Kafka
+Hive
+Hbase
+Tensorflow
+Docker 和Spring Cloud
+机器学习
+深度学习
+数据库SQL
+Airflow
+Shell
+Scala
+Zeppelin
+Ambari
+运维centos：nmap端口扫描
+GraghFrame
+zookeeper
+redis
+python  ymal
+ElasticSearch
+sqoop
+jenkins
+jumpserver
+thrift
+pykafka
+kylin
+Presto
+聚合数据
